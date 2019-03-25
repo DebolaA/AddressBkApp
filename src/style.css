@@ -1,0 +1,23 @@
+body{
+    background: #293f50;
+    color: #888;
+    font: 300 16px/22px, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+html {
+    box-sizing: border-box;
+}
+html, body, .root {
+    height: 100%;
+ }
+.page-title {
+    justify-content: center;
+    text-transform: uppercase;
+}
+.contact-item{
+    padding: 20px;
+    display: flex;
+    background: white;
+}
+.search-contact{
+    width: 70% !important;
+}
